@@ -14,6 +14,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ![Image Alt](https://github.com/Nagarjun-Singh-R-U/Revenue-Insights-in-Hospitality-Domain/blob/ec62227d758b003427b9d121c78b3dcf7510c074/mock%20up%20dashboard_atliq%20grands.png)
 
+## Data Model
+
 
 
 

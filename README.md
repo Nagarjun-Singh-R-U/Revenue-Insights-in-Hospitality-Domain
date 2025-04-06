@@ -16,7 +16,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Data Model
 
-
+![Image Alt](https://github.com/Nagarjun-Singh-R-U/Revenue-Insights-in-Hospitality-Domain/blob/7ac109308e8343bfff9cd880105cc9d255e0330d/data_model.png)
 
 
 ## Key insights from the dashboard

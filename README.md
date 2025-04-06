@@ -20,7 +20,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Final Dashboard
 
-
+![image Alt](https://github.com/Nagarjun-Singh-R-U/Revenue-Insights-in-Hospitality-Domain/blob/b3b463ed4e3928a9b9e74a08f3b30aea5f80dd85/Final%20dashboard.png)
 
 
 

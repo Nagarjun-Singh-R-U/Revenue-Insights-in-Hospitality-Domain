@@ -5,4 +5,4 @@ Atliq Grands is a company that owns multiple hotel chains across various cities 
 
 ## Task list
 
-You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. 
+You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task.

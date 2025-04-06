@@ -27,4 +27,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Key insights from the dashboard
 * Mumbai generates the highest revenue(₹669M), followed by Bengaluru,Hyderabad and Delhi.
 * Atliq Exotica performs better compred to all 7 types of properties with ₹320M in revenue,57% occupancy,and a 24.4% cancellation rate.
-* 
+* Delhi tops both in occupancy and rating followed by Hyderabad,Mumbai and Bengaluru.
+* Elite room types had the highest booking as well as highest cancellation rate, leading to a revenue loss of ₹298M.
+* Occupancy rate is higher at Delhi with 60% for all months though generates least revenue compared to other.

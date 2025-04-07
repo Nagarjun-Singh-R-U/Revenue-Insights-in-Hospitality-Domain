@@ -1,7 +1,7 @@
 # Revenue-Insights-in-Hospitality-Domain
 ## Problem Statement
 
-![Image Alt]()
+![Image Alt](https://github.com/Nagarjun-Singh-R-U/Revenue-Insights-in-Hospitality-Domain/blob/2fab3726f18f1517c51f21596dd30738e3a57189/Datasets/Atliq%20Grands.png)
 
 Atliq Grands is a company that owns multiple hotel chains across various cities of India.It is experiencing a decline in market share and revenue due to increased competition and poor management decisions.As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
 
